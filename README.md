@@ -1,5 +1,8 @@
-# English
-## repo_docs_collector
+# repo_docs_collector
+
+---
+
+## English
 Collector of documentation from repositories. (Python, Django, swagger, Sphynx)
 
 ### Roadmap
@@ -7,8 +10,9 @@ Collector of documentation from repositories. (Python, Django, swagger, Sphynx)
 - [ ] Support Django-REST-framework swagger docs
 - [ ] Support Sphynx docs
 
-# Russian
-## repo_docs_collector
+---
+
+## Russian
 Сборщик документации из репозиториев (Python, Django, swagger, Sphynx)
 
 Хранит список репозиториев, выгружает всю документацию из них и оформляет в одном проекте
